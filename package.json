@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@expo-google-fonts/inter": "^0.2.3",
+    "@expo-google-fonts/lato": "^0.2.3",
+    "@expo-google-fonts/oswald": "^0.2.3",
+    "expo-font": "^11.6.0",
+    "styled-components": "^6.0.8"
+  }
+}
